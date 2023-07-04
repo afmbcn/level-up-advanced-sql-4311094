@@ -6,7 +6,7 @@ GO
 
 SELECT model, EngineType
 FROM model
-LIMIT 15;
+LIMIT 25;
 
 SELECT sql 
 FROM sqlite_schema 
